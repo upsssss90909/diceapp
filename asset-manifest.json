@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/diceapp/static/css/main.f0f051e0.css",
+    "main.js": "/diceapp/static/js/main.9295b9de.js",
+    "index.html": "/diceapp/index.html",
+    "main.f0f051e0.css.map": "/diceapp/static/css/main.f0f051e0.css.map",
+    "main.9295b9de.js.map": "/diceapp/static/js/main.9295b9de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0f051e0.css",
+    "static/js/main.9295b9de.js"
+  ]
+}
